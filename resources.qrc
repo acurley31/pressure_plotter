@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>static/colormaps/rainbow_desaturated_grey.json</file>
+    <file>static/colormaps/cool_to_warm_extended.json</file>
+    <file>static/logos/shr_logo.png</file>
+</qresource>
+</RCC>
