@@ -1,3 +1,5 @@
-examples/*
+examples/
+dist/
 __pychache__/*
 *.swp
+
